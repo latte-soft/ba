@@ -1,0 +1,10 @@
+[[[5/10/20]
+- Fixed bug where "tp", "bring", and "to" would teleport seats with the player.
+
+[5/8/20]
+- Fixed bug where without a prefix, capitalized commands, i.e "SM hi", wouldn't work. (Thanks lyookachu!)
+	
+[3/1/20]
+- Updated clean command
+
+If you have any questions or concerns, feel free to PM TheFurryFish on Roblox.]]
