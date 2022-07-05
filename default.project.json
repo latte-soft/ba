@@ -1,0 +1,10 @@
+{
+    "name": "Basic Admin Essentials 2.0",
+    "tree": {
+        "$path": "Model",
+
+        "MainModule": {
+            "$path": "MainModule"
+        }
+    }
+}

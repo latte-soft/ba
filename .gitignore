@@ -1,0 +1,7 @@
+# Rojo Build File(s)
+build
+build.rbxm
+build.rbxmx
+
+# Rojo/Luau-LSP Source Map
+sourcemap.json
