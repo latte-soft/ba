@@ -1,4 +1,3 @@
 {
-    "luau-lsp.fflags.enableByDefault": false,
-    "xml.symbols.maxItemsComputed": 15000
+    "luau-lsp.fflags.enableByDefault": false
 }
