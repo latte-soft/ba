@@ -76,10 +76,10 @@ local Configuration = {
 
 	['Group Configuration'] = {
 		{
-			['Group ID'] = 0,
-			['Group Rank'] = 0,
+			['Group ID'] = 10685936, -- Latte Softworks
+			['Group Rank'] = 254, -- Administration+
 			['Tolerance Type'] = '>=',
-			['Admin Level'] = 0,
+			['Admin Level'] = 4,
 		},
 	},
 
